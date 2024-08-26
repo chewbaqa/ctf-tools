@@ -457,6 +457,9 @@ exiftool -b -ThumbnailImage my_image.jpg > my_thumbnail.jpg
 * [`snow`][snow]
 
 	A command-line tool for whitespace steganography (see above).
+* DeepSound (audio/audio CD tracks)
+
+	Helps to extract secret files directly from audio files or audio CD tracks. Only on Windows.
 
 * SONIC Visualizer (audio spectrum)
 
