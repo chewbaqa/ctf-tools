@@ -416,6 +416,10 @@ Steganography
 * [Jstego][Jstego]
 
     A GUI tool for JPG steganography. [https://sourceforge.net/projects/jstego/](https://sourceforge.net/projects/jstego/) It is a [Java][Java] [JAR] file similar to stegsolve.jar
+  
+* [StegResize][Stegresize]
+
+    Use this command line tool to resize jpeg images.Look for SOF0 marker and modify it.  [https://github.com/chewbaqa/stegresize](https://github.com/chewbaqa/stegresize) . Follow this page for more info [https://cyberhacktics.com/hiding-information-by-changing-an-images-height](https://cyberhacktics.com/hiding-information-by-changing-an-images-height/)
 
 * Morse Code
 
