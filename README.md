@@ -3,7 +3,6 @@
 ===============
 ## Other Lists
 
-- [USCGA/tools](https://github.com/USCGA/tools)
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana) (ORIGINAL REPO)
 - [JohnHammond/katana](https://github.com/JohnHammond/katana) (Automated tool)
 
