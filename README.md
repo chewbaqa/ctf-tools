@@ -38,6 +38,7 @@
 28. [Miscellaneous](#miscellaneous)
 29. [Jail Breaks](#jail-breaks)
 30. [Trivia](#trivia)
+31. [Hardware](#hardware)
 
 ---------------
 
@@ -1491,6 +1492,13 @@ Jail Breaks
 Sometimes you're jailed in an environment where you can potentially execute code.
 * Python 3
 `().__class__.__base__.__subclasses__()` - Gives access to `object` subclasses
+
+Hardware
+----------
+* .sal files
+
+	If you encounter .sal files then use [Saleae Logic Analyzers]: https://www.saleae.com/
+
 
 
 Trivia
